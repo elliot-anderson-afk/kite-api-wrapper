@@ -1,0 +1,4 @@
+[Kite]
+api_key = YOUR_API_KEY
+api_secret = YOUR_API_SECRET
+# access_token = YOUR_ACCESS_TOKEN (optional, can be set via environment or programmatically)
