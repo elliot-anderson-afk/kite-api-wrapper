@@ -1,0 +1,7 @@
+requests
+kiteconnect>=3.0.0 # Specify a version for kiteconnect
+configparser # For Python versions < 3.2, though usually included
+black
+flake8
+pytest
+pytest-cov
